@@ -141,7 +141,8 @@ plt.savefig(os.path.splitext(os.path.basename(fpath))[0] + '.png', dpi=300, bbox
 plt.show()
 
 ```
-![ANI_VIS_R01_20230308_1400_FY2G_adj.png](https://raw.githubusercontent.com/wqshen/awxreader/master/doc/ANI_VIS_R01_20230308_1400_FY2G_adj.png)
+![ANI_VIS_R01_20230308_1400_FY2G_adj.png](https://github.com/sxcgc/AwxReader/blob/tryadj/doc/ANI_VIS_R01_20230308_1400_FY2G_adj.png)
+
 
 ### 命令行程序
 
